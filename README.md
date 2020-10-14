@@ -1,11 +1,4 @@
-# BayeSyneRgy
-
-An R package for Bayesian semi-parametric modelling of in-vitro drug combination experiments 
-
-## Updates
-
-- 03-03-20: Added support for missing values!
-- 14-04-20: Added the option to estimate lower asymptotes for monotherapies
+An R package for Bayesian semi-parametric modelling of in-vitro drug combination experiments as described in Cremaschi et. al (2019, https://arxiv.org/abs/1904.04901)
 
 
 

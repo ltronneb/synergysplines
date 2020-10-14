@@ -4,7 +4,7 @@ Title: Bayesian semi-parametric modelling for in-vitro drug combination experime
 Version: 1.0
 Date: 2019-03-28
 Author: Andrea Cremaschi, Leiv Rønneberg, Manuela Zucknick
-Maintainer: Leiv Rønneberg <leiv.ronneberg@medisin.uio.no>
+Maintainer: Andrea Cremaschi <cremaschia@sics.a-star.edu.sg>, Leiv Rønneberg <leiv.ronneberg@medisin.uio.no>
 Description: The package implements a spline-based regression model to estimate the response surface of the viability responses obtained when two drugs are combined. The input data consists of the measured viability responses and the doses used in the combination experiment.
 License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.1), mvnfast, mvtnorm, viridis, caTools, graphics, grDevices, rgl, plot3D, coda, stringr

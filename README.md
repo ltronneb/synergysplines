@@ -4,6 +4,8 @@ An R package for Bayesian semi-parametric modelling of in-vitro drug combination
 
 ## Installation
 
-    > install.packages('devtools')
-    > library(devtools)
-    > install_github('ltronneb/synergysplines',build_opts = c("--no-resave-data", "--no-manual"))
+```r
+install.packages('devtools')
+library(devtools)
+install_github('ocbe-uio/synergysplines',build_opts = c("--no-resave-data", "--no-manual"))
+```
